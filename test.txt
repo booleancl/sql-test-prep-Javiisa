@@ -1,0 +1,6 @@
+C:/Users/user/intro_dev/sql-test-prep-Javiisa/migrations/00-create_database.sql
+C:/Users/user/intro_dev/sql-test-prep-Javiisa/migrations/01-create_customers_table.sql
+C:/Users/user/intro_dev/sql-test-prep-Javiisa/migrations/02-create_products_table.sql
+C:/Users/user/intro_dev/sql-test-prep-Javiisa/migrations/03-create_purchases_table.sql
+C:/Users/user/intro_dev/sql-test-prep-Javiisa/migrations/04-create_details_table.sql
+C:/Users/user/intro_dev/sql-test-prep-Javiisa/migrations/05-seed_data.sql
